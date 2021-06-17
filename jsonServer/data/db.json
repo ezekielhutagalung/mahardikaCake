@@ -1,0 +1,107 @@
+{
+  "Cake":[
+      {
+        "id":1,
+        "ImgUrl":"https://images.unsplash.com/photo-1605807646983-377bc5a76493?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1524&q=80",
+        "name":"full chocolate",
+        "price":"IDR 225.000 - IDR 475.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"Coklat",
+        "Keterangan":"kue yang enak"
+      },
+      {
+        "id":2,
+        "ImgUrl":"https://images.unsplash.com/photo-1542371857-763c991f02ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+        "name":"Mix Cake",
+        "price":"IDR 119.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"Campur",
+        "Keterangan":"kue yang enak"
+      },
+      {
+        "id":3,
+        "ImgUrl":"https://images.unsplash.com/photo-1613680542429-3ff9a5e89900?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+        "name":"Chocolate Vanilla Cake",
+        "price":"IDR 499.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"Campuran rasa Chocolate, dan vanilla",
+        "Keterangan":"kue yang enak"
+      },
+      {
+        "id":4,
+        "ImgUrl":"https://images.unsplash.com/photo-1609618299316-38af52f7d49a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=625&q=80",
+        "name":"Chocolate Strawberry Cake",
+        "price":"IDR 205.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"Campuran rasa Chocolate, dan Strawberry",
+        "Keterangan":"kue yang enak"
+      },
+
+      {
+        "id":5,
+        "ImgUrl":"https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=625&q=80",
+        "name":"Fruit Pancake",
+        "price":"IDR 299.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"pancake dengan buah-buahan",
+        "Keterangan":"kue yang enak"
+      },
+      {
+        "id":6,
+        "ImgUrl":"https://images.unsplash.com/photo-1587437476770-de6538de0b7a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "name":"Fruit Cake",
+        "price":"IDR 299.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"Cake besar dengan buah-buahan",
+        "Keterangan":"kue yang enak"
+      },
+      {
+        "id":7,
+        "ImgUrl":"https://images.unsplash.com/photo-1584044498325-337e71ac5f41?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80",
+        "name":"Pancake StrawBerry",
+        "price":"IDR 499.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"pancake dengan Rasa Starwberry",
+        "Keterangan":"kue yang enak"
+      },
+      {
+        "id":8,
+        "ImgUrl":"https://images.unsplash.com/photo-1541491008689-b5d3c6615e2e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=763&q=80",
+        "name":"Fruit Pancake",
+        "price":"IDR 299.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"pancake dengan buah-buahan",
+        "Keterangan":"kue yang enak"
+      },
+      {
+        "id":9,
+        "ImgUrl":"https://images.unsplash.com/photo-1528975604071-b4dc52a2d18c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=750&q=80",
+        "name":"Macaroon",
+        "price":"IDR 248.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"pancake dengan buah-buahan",
+        "Keterangan":"kue yang enak"
+      },
+      {
+        "id":10,
+        "ImgUrl":"https://images.unsplash.com/photo-1542371857-763c991f02ff?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80",
+        "name":"Mix Cake",
+        "price":"IDR 119.000",
+        "SKU": 115,
+        "Kategori":"Dewasa",
+        "Rasa":"Campur",
+        "Keterangan":"kue yang enak"
+      }
+
+
+  ]
+}

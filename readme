@@ -1,0 +1,4 @@
+before all dont foreget to npm i
+
+1. CD TO jsonServer folder then json-server --watch db.json
+2. OPEN new Terminal and cd to mahardika-cake then run "npm start"
